@@ -7,8 +7,6 @@ Read this in other languages:
 
 ## Table of Contents
 
----
-
 1. Introduction
 2. Installation
 3. ...
