@@ -1,5 +1,7 @@
 # kakao-xubuntu
 
+NOTE: My work on this repo is on hold until I feel comfortable enough with network programming to really start on this project. I will be working on [this repository][7]. May 29th, 2020.
+
 Read this in other languages:
 
 * [English version][1]
@@ -33,3 +35,4 @@ Installation stuff goes here...
 [4]: https://www.kakaocorp.com/service/KakaoTalk?lang=en
 [5]: https://en.wikipedia.org/wiki/Linux "Wikipedia: Linux"
 [6]: https://joelweon.github.io/2019/05/08/linux-wine-kakao-install.html
+[7]: https://github.com/notphilphil/sc
